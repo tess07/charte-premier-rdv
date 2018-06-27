@@ -5,4 +5,6 @@ Il vous aideras pour l'élaboration du projet de votre client
 
 
 
-Cette œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+Cette œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution 4.0 International.
+
+                                                                                            Émilie Digirolamo, Romain Prospero
